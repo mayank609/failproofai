@@ -29,8 +29,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
-.env
-.env.*
 
 # vercel
 .vercel
@@ -100,3 +98,7 @@ COMMIT_MSG.tmp
 /canary.env
 /integration-suite-state.json
 /cli-integration-state.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
